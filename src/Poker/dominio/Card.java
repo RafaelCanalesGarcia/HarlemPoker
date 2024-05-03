@@ -1,4 +1,4 @@
-package poker.dominio;
+package Poker.dominio;
 
 public class Card {
     private String character;

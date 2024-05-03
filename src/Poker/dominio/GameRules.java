@@ -1,12 +1,8 @@
-package poker.dominio;
+package Poker.dominio;
 
-import java.util.Scanner;
-import java.util.ArrayList;
-
-import static poker.dominio.PokerTable.maxBet;
 
 public class GameRules {
-    public static void gameStart() {
+    /*public static void gameStart() {
         boolean gameInProgress = true;
         int currentPlayer = 0;
         while (gameInProgress){
@@ -21,5 +17,5 @@ public class GameRules {
 
     public void turn() {
 
-    }
+    }*/
 }
